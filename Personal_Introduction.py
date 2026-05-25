@@ -1,0 +1,8 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+city=input("Enter your city name: ")
+print("\n      Personal Introduction     \n")
+print(f"My name is {name}.")
+print(f"I am {age} years old.")
+print(f"I am from {city}.")
+print("I have started learning Python programming and I am excited to explore its possibilities.")
