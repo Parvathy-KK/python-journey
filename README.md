@@ -1,2 +1,4 @@
 # python-journey
-My Python learning journey and practice programs.
+Hi, I am Parvathy.
+I am learning Python programming and uploading my practice programs here.
+## Programs.
